@@ -15,10 +15,9 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 <div align="center">
 <br>
 
-<img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src=".github/assets/neetcode-all-progress.svg" alt="NeetCode All Progress" />
 
+<img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />
 <br>
 
 *We're basically rounding errors at this point. But hey — we exist on the chart!*

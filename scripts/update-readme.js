@@ -102,7 +102,7 @@ function buildSVG(name, solved, totals) {
         `stroke="${a.color}" stroke-width="${sw}" ` +
         `stroke-dasharray="${a.len.toFixed(2)} ${C.toFixed(2)}" ` +
         `stroke-dashoffset="${a.offset.toFixed(2)}" ` +
-        `stroke-linecap="round" transform="rotate(-90 ${cx} ${cy})"/>`
+        `stroke-linecap="round" transform="rotate(-90 ${cx} ${cy})"/>`,
     )
     .join("\n");
 
@@ -168,7 +168,7 @@ function buildProgressSection(stats, topics) {
   const quip = getQuip(pct);
 
   const sortedTopics = Object.entries(topics).sort(
-    ([, a], [, b]) => b.total - a.total
+    ([, a], [, b]) => b.total - a.total,
   );
 
   let topicTable = "";
@@ -184,9 +184,8 @@ function buildProgressSection(stats, topics) {
 
   return (
     `<div align="center">\n<br>\n\n` +
-    `<img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />\n` +
-    `&nbsp;&nbsp;&nbsp;&nbsp;\n` +
     `<img src=".github/assets/neetcode-all-progress.svg" alt="NeetCode All Progress" />\n\n` +
+    `<img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />\n` +
     `<br>\n\n` +
     `*${quip}*\n\n` +
     `</div>\n` +
@@ -209,7 +208,10 @@ function main() {
     stats[name] = { counts, totals };
 
     const filename = name.toLowerCase().replace(/\s+/g, "-") + "-progress.svg";
-    fs.writeFileSync(path.join(assetsDir, filename), buildSVG(name, counts, totals));
+    fs.writeFileSync(
+      path.join(assetsDir, filename),
+      buildSVG(name, counts, totals),
+    );
     console.log(`  ✓ ${filename}`);
   }
 
