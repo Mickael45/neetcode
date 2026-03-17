@@ -1,6 +1,6 @@
 # NeetCode Grind 🧠
 
-> *"A journey of 954 problems begins with a single `console.log('hello world')`"*
+> _"A journey of 954 problems begins with a single `console.log('hello world')`"_
 > — Ancient LeetCode Proverb (that I just made up)
 
 One dev. JavaScript. An ungodly mass of LeetCode problems standing between me and... well, I'm not sure what. Enlightenment? A FAANG offer? The ability to reverse a linked list at a dinner party?
@@ -29,7 +29,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Topic | Easy | Med | Hard | Total |
 |:------|:----:|:---:|:----:|:-----:|
 | Arrays & Hashing | 3 | 6 | — | **9** |
-| Two Pointers | 1 | 1 | — | **2** |
+| Two Pointers | 1 | 2 | — | **3** |
 
 <!-- PROGRESS:END -->
 
@@ -70,7 +70,7 @@ This scans the repo, counts solved problems, regenerates the fancy SVG charts ab
 
 - [x] Set up the repo
 - [x] Solve first problem
-- [x] Build a README instead of actually solving problems *(you are here)*
+- [x] Build a README instead of actually solving problems _(you are here)_
 - [ ] Complete Core Skills (83 problems)
 - [ ] Complete NeetCode All (954 problems)
 - [ ] Touch grass
@@ -86,8 +86,8 @@ This scans the repo, counts solved problems, regenerates the fancy SVG charts ab
 
 <div align="center">
 
-*Started: March 2026 · ETA: TBD (the "T" stands for "thermodynamic heat death of the universe")*
+_Started: March 2026 · ETA: TBD (the "T" stands for "thermodynamic heat death of the universe")_
 
-*If you're also grinding NeetCode, godspeed. We're all in this together. Alone. At 2 AM.*
+_If you're also grinding NeetCode, godspeed. We're all in this together. Alone. At 2 AM._
 
 </div>
