@@ -15,8 +15,9 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 <div align="center">
 <br>
 
-<img src=".github/assets/neetcode-all-progress.svg" alt="NeetCode All Progress" />
 <img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=".github/assets/neetcode-all-progress.svg" alt="NeetCode All Progress" />
 
 <br>
 
@@ -29,7 +30,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Topic | Easy | Med | Hard | Total |
 |:------|:----:|:---:|:----:|:-----:|
 | Arrays & Hashing | 3 | 6 | — | **9** |
-| Two Pointers | 1 | 2 | — | **3** |
+| Two Pointers | 1 | 3 | — | **4** |
 
 <!-- PROGRESS:END -->
 
