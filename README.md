@@ -30,7 +30,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 |:------|:----:|:---:|:----:|:-----:|
 | Arrays & Hashing | 3 | 6 | — | **9** |
 | Two Pointers | 1 | 3 | — | **4** |
-| Sliding Window | 1 | 1 | — | **2** |
+| Sliding Window | 1 | 2 | — | **3** |
 | Stack | 1 | — | — | **1** |
 
 <!-- PROGRESS:END -->
