@@ -20,7 +20,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 <img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />
 <br>
 
-*We're basically rounding errors at this point. But hey — we exist on the chart!*
+*If this was a marathon, we'd still be stretching in the parking lot.*
 
 </div>
 
@@ -28,7 +28,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 
 | Topic | Easy | Med | Hard | Total |
 |:------|:----:|:---:|:----:|:-----:|
-| Arrays & Hashing | 4 | 6 | — | **10** |
+| Arrays & Hashing | 5 | 6 | — | **11** |
 | Sliding Window | 1 | 3 | — | **4** |
 | Two Pointers | 1 | 3 | — | **4** |
 | Stack | 1 | — | — | **1** |
