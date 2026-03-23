@@ -28,7 +28,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 
 | Topic | Easy | Med | Hard | Total |
 |:------|:----:|:---:|:----:|:-----:|
-| Arrays & Hashing | 3 | 6 | — | **9** |
+| Arrays & Hashing | 4 | 6 | — | **10** |
 | Sliding Window | 1 | 3 | — | **4** |
 | Two Pointers | 1 | 3 | — | **4** |
 | Stack | 1 | — | — | **1** |
