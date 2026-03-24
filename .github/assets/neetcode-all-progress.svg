@@ -2,11 +2,11 @@
   <rect width="480" height="190" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <text x="32" y="36" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="17" font-weight="700" fill="#e6edf3">NeetCode All</text>
-  <text x="32" y="55" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="12" fill="#8b949e">954 problems · 2.6% done</text>
+  <text x="32" y="55" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="12" fill="#8b949e">954 problems · 2.7% done</text>
 
   <circle cx="42" cy="88" r="5" fill="#00b8a3"/>
   <text x="56" y="93" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="15" font-weight="600" fill="#00b8a3">Easy</text>
-  <text x="130" y="93" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="15" fill="#e6edf3">12<tspan fill="#8b949e">/221</tspan></text>
+  <text x="130" y="93" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="15" fill="#e6edf3">13<tspan fill="#8b949e">/221</tspan></text>
 
   <circle cx="42" cy="118" r="5" fill="#ffc01e"/>
   <text x="56" y="123" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="15" font-weight="600" fill="#ffc01e">Med</text>
@@ -17,8 +17,8 @@
   <text x="130" y="153" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="15" fill="#e6edf3">0<tspan fill="#8b949e">/147</tspan></text>
 
   <circle cx="370" cy="95" r="58" fill="none" stroke="#21262d" stroke-width="11"/>
-  <circle cx="370" cy="95" r="58" fill="none" stroke="#00b8a3" stroke-width="11" stroke-dasharray="2.58 364.42" stroke-dashoffset="0.00" stroke-linecap="round" transform="rotate(-90 370 95)"/>
-  <circle cx="370" cy="95" r="58" fill="none" stroke="#ffc01e" stroke-width="11" stroke-dasharray="2.97 364.42" stroke-dashoffset="-4.58" stroke-linecap="round" transform="rotate(-90 370 95)"/>
-  <text x="370" y="93" text-anchor="middle" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">25<tspan font-size="15" font-weight="400" fill="#8b949e">/954</tspan></text>
+  <circle cx="370" cy="95" r="58" fill="none" stroke="#00b8a3" stroke-width="11" stroke-dasharray="2.97 364.42" stroke-dashoffset="0.00" stroke-linecap="round" transform="rotate(-90 370 95)"/>
+  <circle cx="370" cy="95" r="58" fill="none" stroke="#ffc01e" stroke-width="11" stroke-dasharray="2.97 364.42" stroke-dashoffset="-4.97" stroke-linecap="round" transform="rotate(-90 370 95)"/>
+  <text x="370" y="93" text-anchor="middle" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">26<tspan font-size="15" font-weight="400" fill="#8b949e">/954</tspan></text>
   <text x="370" y="115" text-anchor="middle" font-family="Segoe UI,Ubuntu,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#8b949e">Solved</text>
 </svg>
