@@ -28,8 +28,8 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 
 | Topic | Easy | Med | Hard | Total |
 |:------|:----:|:---:|:----:|:-----:|
+| Two Pointers | 10 | 3 | — | **13** |
 | Arrays & Hashing | 5 | 7 | — | **12** |
-| Two Pointers | 9 | 3 | — | **12** |
 | Sliding Window | 1 | 3 | — | **4** |
 | Stack | 1 | — | — | **1** |
 
