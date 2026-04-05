@@ -31,8 +31,8 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Two Pointers | 10 | 5 | — | **15** |
 | Arrays & Hashing | 5 | 7 | — | **12** |
 | Sliding Window | 2 | 5 | — | **7** |
+| Binary Search | 2 | 3 | — | **5** |
 | Stack | 1 | 4 | — | **5** |
-| Binary Search | 2 | 2 | — | **4** |
 | Linked List | 1 | — | — | **1** |
 
 <!-- PROGRESS:END -->
