@@ -20,7 +20,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 <img src=".github/assets/core-skills-progress.svg" alt="Core Skills Progress" />
 <br>
 
-*If this was a marathon, we'd still be stretching in the parking lot.*
+*Single digits. My portfolio has better numbers. Actually, no it doesn't.*
 
 </div>
 
@@ -33,7 +33,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Binary Search | 2 | 5 | — | **7** |
 | Sliding Window | 2 | 5 | — | **7** |
 | Stack | 1 | 4 | — | **5** |
-| Linked List | 1 | — | — | **1** |
+| Linked List | 2 | — | — | **2** |
 
 <!-- PROGRESS:END -->
 
