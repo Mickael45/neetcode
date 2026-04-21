@@ -34,7 +34,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Sliding Window | 2 | 5 | — | **7** |
 | Stack | 1 | 4 | — | **5** |
 | Linked List | 3 | 1 | — | **4** |
-| Trees | 1 | — | — | **1** |
+| Trees | 2 | 1 | — | **3** |
 
 <!-- PROGRESS:END -->
 
