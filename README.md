@@ -32,7 +32,7 @@ This repo tracks my slow, painful march through [NeetCode](https://neetcode.io)'
 | Arrays & Hashing | 5 | 7 | — | **12** |
 | Binary Search | 2 | 5 | — | **7** |
 | Sliding Window | 2 | 5 | — | **7** |
-| Linked List | 3 | 2 | — | **5** |
+| Linked List | 3 | 3 | — | **6** |
 | Stack | 1 | 4 | — | **5** |
 | Trees | 2 | 1 | — | **3** |
 
